@@ -87,9 +87,6 @@ FontName=Roboto
 FontName=JetBrains Mono ; Monospace option for a more technical look
 ```
 
----
-
-
 
 ---
 
