@@ -6,7 +6,7 @@ A clean, minimal Rainmeter skin that displays live stock prices with real-time c
 
 ---
 
-## ✨ Features
+## Features
 
 - **Live stock price** — updates every 10 minutes via CNBC's JSON feed
 - **Change indicators** — color-coded arrows (▲ / ▼) with price change and percentage
@@ -17,7 +17,7 @@ A clean, minimal Rainmeter skin that displays live stock prices with real-time c
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - [Rainmeter](https://www.rainmeter.net/) 4.5 or later
 - Windows 10 / 11
@@ -25,7 +25,7 @@ A clean, minimal Rainmeter skin that displays live stock prices with real-time c
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 1. Download the latest **`StockTicker.rmskin`** from the [Releases](../../releases) page.
 2. Double-click the `.rmskin` file — the Rainmeter Skin Installer will open automatically.
@@ -37,7 +37,7 @@ That's it! The skin should appear on your desktop immediately after installing.
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 All customization is done in the `[Variables]` section at the top of the `.ini` file. After making any changes, right-click the skin → **Refresh Skin** to apply them.
 
@@ -93,7 +93,7 @@ FontName=JetBrains Mono ; Monospace option for a more technical look
 
 ---
 
-## 🖼️ Adding a Logo
+## Adding a Logo
 
 The skin supports an optional company logo displayed at the top of the card.
 
@@ -105,7 +105,7 @@ The skin supports an optional company logo displayed at the top of the card.
 
 ---
 
-## 📡 Data Source
+## Data Source
 
 Stock data is fetched from CNBC's public quote API:
 ```
@@ -116,7 +116,7 @@ Prices refresh every **10 minutes** (`UpdateRate=600`). To change this, edit the
 
 ---
 
-## 🗂️ File Structure
+## File Structure
 
 ```
 StockTicker/
@@ -129,13 +129,13 @@ StockTicker/
 
 ---
 
-## 📝 License
+## License
 
 This project is released under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - [Rainmeter](https://www.rainmeter.net/) — the desktop customization platform
 - [CNBC](https://www.cnbc.com/) — stock data source
