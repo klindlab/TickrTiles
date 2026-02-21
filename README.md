@@ -9,10 +9,9 @@ A clean, minimal Rainmeter skin that displays live stock prices with real-time c
 ## ✨ Features
 
 - **Live stock price** — updates every 10 minutes via CNBC's JSON feed
-- **Change indicators** — color-coded arrows (▲/▼) with price change and percentage
+- **Change indicators** — color-coded arrows (▲ / ▼) with price change and percentage
 - **Company name** — auto-fetched and displayed below the ticker symbol
 - **Optional logo** — supports per-ticker PNG images
-- **Hover effect** — subtle background highlight on mouse-over
 - **Click to open** — left-click opens the CNBC quote page for the ticker
 - **Last updated time** — shows the local time of the last refresh
 
@@ -52,9 +51,7 @@ The stock ticker symbol to display. This must match the symbol used on CNBC/majo
 ```ini
 Ticker=AAPL     ; Apple Inc.
 Ticker=MSFT     ; Microsoft
-Ticker=TSLA     ; Tesla
 Ticker=NVDA     ; NVIDIA
-Ticker=SPY      ; S&P 500 ETF
 Ticker=BTC.X    ; Bitcoin (CNBC format for crypto)
 ```
 
@@ -74,7 +71,7 @@ CurrencySymbol=€    ; Euro
 CurrencySymbol=¥    ; Japanese Yen
 ```
 
-> **Note:** This only changes the displayed symbol — the actual price data still comes from CNBC in its original currency. It does not perform currency conversion.
+> **Note:** This only changes the displayed symbol - the actual price data still comes from CNBC in its original currency. It does not perform currency conversion.
 
 ---
 
