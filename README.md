@@ -25,7 +25,7 @@ A clean, minimal Rainmeter skin that displays live stock prices with real-time c
 
 ---
 
-## 🚀 Installation
+## 🛠️ Installation
 
 1. Download the latest **`StockTicker.rmskin`** from the [Releases](../../releases) page.
 2. Double-click the `.rmskin` file — the Rainmeter Skin Installer will open automatically.
