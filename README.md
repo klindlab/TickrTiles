@@ -1,8 +1,11 @@
-# 📈 TickrTiles - Rainmeter Skin
+<div align="center">
 
+# 📈 TickrTiles - Rainmeter Skin
 A clean, minimal Rainmeter skin that displays live stock prices with real-time change indicators, sourced from CNBC's quote API.
 
 ![Preview](preview.png)
+
+</div>
 
 ---
 
