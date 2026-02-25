@@ -55,7 +55,7 @@ The stock ticker symbol to display. This must match the symbol used on CNBC/majo
 Ticker=AAPL     ; Apple Inc.
 Ticker=MSFT     ; Microsoft
 Ticker=NVDA     ; NVIDIA
-Ticker=BTC.X    ; Bitcoin (CNBC format for crypto)
+Ticker=BTC.CM=  ; Bitcoin (CNBC format for crypto)
 ```
 
 > **Note:** The ticker also controls which logo image is loaded from `@Resources\Images\`. For example, setting `Ticker=MSFT` will look for `MSFT.png`.
